@@ -7,6 +7,6 @@ This project was developed by me and a partner from university, the idea of the 
 # Some Implementations
 - Basic anticheat algorithm
   -If the algorithm detects that the players enter a word similar to a card word, it will penalize the team discounting points.
--Random words for each card
+- Random words for each card
   - In each different game the program will show random words loaded in the dataset.txt
 - Different consecuences depending on the selected agent
